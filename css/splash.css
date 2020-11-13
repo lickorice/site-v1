@@ -110,12 +110,6 @@ body, .jumbotron {
     color: #aaa;
 }
 
-.project-subtitle-sub {
-    font-family: 'Roboto Mono', monospace;
-    font-weight: 400;
-    color: #888;
-}
-
 .project-title:hover {
     color: #eee;
     text-decoration: none;
