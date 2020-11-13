@@ -92,10 +92,28 @@ body, .jumbotron {
     width: 15vh;
 }
 
+.img-work {
+    width: 100%;
+    max-height: 17vh;
+    object-fit: contain;
+}
+
 .project-title {
     font-family: 'Roboto Mono', monospace;
     font-weight: 700;
     color: #ccc;
+}
+
+.project-subtitle {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    color: #aaa;
+}
+
+.project-subtitle-sub {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    color: #888;
 }
 
 .project-title:hover {
